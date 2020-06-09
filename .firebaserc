@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "react-deploy": "react-firebase-30bde",
+    "default": "react-firebase-30bde"
+  }
+}
